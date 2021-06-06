@@ -17,16 +17,16 @@ but also to know the greatest possible number of civilizations.
 
 ## Stages of construction
 * Analysis
-https://github.com/trp216/space_travelers/blob/main/docs/Statement%20and%20functional%20requirements.pdf
+* [Requeriments](https://github.com/SantiRodas/space-travelers/blob/main/docs/Statement%20and%20functional%20requirements.pdf)
 
 * Design
-https://github.com/trp216/space_travelers/tree/main/docs
+* [Docs](https://github.com/SantiRodas/space-travelers/tree/main/docs)
 
 * Code
-https://github.com/trp216/space_travelers/tree/main/src
+* [src](https://github.com/SantiRodas/space-travelers/tree/main/src)
 
 * Test
-https://github.com/trp216/space_travelers/tree/main/src/test
+* [Collections](https://github.com/SantiRodas/space-travelers/tree/main/test/collections)
 
 -------------------------------------------------------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ https://github.com/trp216/space_travelers/tree/main/src/test
 * Santiago Rodas Rodriguez
 
 ## License
-This project is under the license (Apache License 2.0): https://github.com/trp216/space_travelers/blob/main/LICENSE
+* [Apache License 2.0](https://github.com/SantiRodas/space-travelers/blob/main/LICENSE)
 
 ## Window prototypes
 
